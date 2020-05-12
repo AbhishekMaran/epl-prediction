@@ -1,0 +1,381 @@
+Game_ID,Year,Date,HomeTeam,AwayTeam
+1,2020,09-08-19,Liverpool,Norwich
+2,2020,10-08-19,Bournemouth,Sheffield United
+3,2020,10-08-19,Burnley,Southampton
+4,2020,10-08-19,Crystal Palace,Everton
+5,2020,10-08-19,Leicester,Wolves
+6,2020,10-08-19,Tottenham,Aston Villa
+7,2020,10-08-19,Watford,Brighton
+8,2020,10-08-19,West Ham,Man City
+9,2020,11-08-19,Man United,Chelsea
+10,2020,11-08-19,Newcastle,Arsenal
+11,2020,17-08-19,Arsenal,Burnley
+12,2020,17-08-19,Aston Villa,Bournemouth
+13,2020,17-08-19,Brighton,West Ham
+14,2020,17-08-19,Chelsea,Leicester
+15,2020,17-08-19,Everton,Watford
+16,2020,17-08-19,Man City,Tottenham
+17,2020,17-08-19,Norwich,Newcastle
+18,2020,17-08-19,Sheffield United,Crystal Palace
+19,2020,17-08-19,Southampton,Liverpool
+20,2020,17-08-19,Wolves,Man United
+21,2020,24-08-19,Aston Villa,Everton
+22,2020,24-08-19,Bournemouth,Man City
+23,2020,24-08-19,Brighton,Southampton
+24,2020,24-08-19,Liverpool,Arsenal
+25,2020,24-08-19,Man United,Crystal Palace
+26,2020,24-08-19,Norwich,Chelsea
+27,2020,24-08-19,Sheffield United,Leicester
+28,2020,24-08-19,Tottenham,Newcastle
+29,2020,24-08-19,Watford,West Ham
+30,2020,24-08-19,Wolves,Burnley
+31,2020,31-08-19,Arsenal,Tottenham
+32,2020,31-08-19,Burnley,Liverpool
+33,2020,31-08-19,Chelsea,Sheffield United
+34,2020,31-08-19,Crystal Palace,Aston Villa
+35,2020,31-08-19,Everton,Wolves
+36,2020,31-08-19,Leicester,Bournemouth
+37,2020,31-08-19,Man City,Brighton
+38,2020,31-08-19,Newcastle,Watford
+39,2020,31-08-19,Southampton,Man United
+40,2020,31-08-19,West Ham,Norwich
+41,2020,14-09-19,Aston Villa,West Ham
+42,2020,14-09-19,Bournemouth,Everton
+43,2020,14-09-19,Brighton,Burnley
+44,2020,14-09-19,Liverpool,Newcastle
+45,2020,14-09-19,Man United,Leicester
+46,2020,14-09-19,Norwich,Man City
+47,2020,14-09-19,Sheffield United,Southampton
+48,2020,14-09-19,Tottenham,Crystal Palace
+49,2020,14-09-19,Watford,Arsenal
+50,2020,14-09-19,Wolves,Chelsea
+51,2020,21-09-19,Arsenal,Aston Villa
+52,2020,21-09-19,Burnley,Norwich
+53,2020,21-09-19,Chelsea,Liverpool
+54,2020,21-09-19,Crystal Palace,Wolves
+55,2020,21-09-19,Everton,Sheffield United
+56,2020,21-09-19,Leicester,Tottenham
+57,2020,21-09-19,Man City,Watford
+58,2020,21-09-19,Newcastle,Brighton
+59,2020,21-09-19,Southampton,Bournemouth
+60,2020,21-09-19,West Ham,Man United
+61,2020,28-09-19,Aston Villa,Burnley
+62,2020,28-09-19,Bournemouth,West Ham
+63,2020,28-09-19,Chelsea,Brighton
+64,2020,28-09-19,Crystal Palace,Norwich
+65,2020,28-09-19,Everton,Man City
+66,2020,28-09-19,Leicester,Newcastle
+67,2020,28-09-19,Man United,Arsenal
+68,2020,28-09-19,Sheffield United,Liverpool
+69,2020,28-09-19,Tottenham,Southampton
+70,2020,28-09-19,Wolves,Watford
+71,2020,05-10-19,Arsenal,Bournemouth
+72,2020,05-10-19,Brighton,Tottenham
+73,2020,05-10-19,Burnley,Everton
+74,2020,05-10-19,Liverpool,Leicester
+75,2020,05-10-19,Man City,Wolves
+76,2020,05-10-19,Newcastle,Man United
+77,2020,05-10-19,Norwich,Aston Villa
+78,2020,05-10-19,Southampton,Chelsea
+79,2020,05-10-19,Watford,Sheffield United
+80,2020,05-10-19,West Ham,Crystal Palace
+81,2020,19-10-19,Aston Villa,Brighton
+82,2020,19-10-19,Bournemouth,Norwich
+83,2020,19-10-19,Chelsea,Newcastle
+84,2020,19-10-19,Crystal Palace,Man City
+85,2020,19-10-19,Everton,West Ham
+86,2020,19-10-19,Leicester,Burnley
+87,2020,19-10-19,Man United,Liverpool
+88,2020,19-10-19,Sheffield United,Arsenal
+89,2020,19-10-19,Tottenham,Watford
+90,2020,19-10-19,Wolves,Southampton
+91,2020,26-10-19,Arsenal,Crystal Palace
+92,2020,26-10-19,Brighton,Everton
+93,2020,26-10-19,Burnley,Chelsea
+94,2020,26-10-19,Liverpool,Tottenham
+95,2020,26-10-19,Man City,Aston Villa
+96,2020,26-10-19,Newcastle,Wolves
+97,2020,26-10-19,Norwich,Man United
+98,2020,26-10-19,Southampton,Leicester
+99,2020,26-10-19,Watford,Bournemouth
+100,2020,26-10-19,West Ham,Sheffield United
+101,2020,02-11-19,Arsenal,Wolves
+102,2020,02-11-19,Aston Villa,Liverpool
+103,2020,02-11-19,Bournemouth,Man United
+104,2020,02-11-19,Brighton,Norwich
+105,2020,02-11-19,Crystal Palace,Leicester
+106,2020,02-11-19,Everton,Tottenham
+107,2020,02-11-19,Man City,Southampton
+108,2020,02-11-19,Sheffield United,Burnley
+109,2020,02-11-19,Watford,Chelsea
+110,2020,02-11-19,West Ham,Newcastle
+111,2020,09-11-19,Burnley,West Ham
+112,2020,09-11-19,Chelsea,Crystal Palace
+113,2020,09-11-19,Leicester,Arsenal
+114,2020,09-11-19,Liverpool,Man City
+115,2020,09-11-19,Man United,Brighton
+116,2020,09-11-19,Newcastle,Bournemouth
+117,2020,09-11-19,Norwich,Watford
+118,2020,09-11-19,Southampton,Everton
+119,2020,09-11-19,Tottenham,Sheffield United
+120,2020,09-11-19,Wolves,Aston Villa
+121,2020,23-11-19,Arsenal,Southampton
+122,2020,23-11-19,Aston Villa,Newcastle
+123,2020,23-11-19,Bournemouth,Wolves
+124,2020,23-11-19,Brighton,Leicester
+125,2020,23-11-19,Crystal Palace,Liverpool
+126,2020,23-11-19,Everton,Norwich
+127,2020,23-11-19,Man City,Chelsea
+128,2020,23-11-19,Sheffield United,Man United
+129,2020,23-11-19,Watford,Burnley
+130,2020,23-11-19,West Ham,Tottenham
+131,2020,30-11-19,Burnley,Crystal Palace
+132,2020,30-11-19,Chelsea,West Ham
+133,2020,30-11-19,Leicester,Everton
+134,2020,30-11-19,Liverpool,Brighton
+135,2020,30-11-19,Man United,Aston Villa
+136,2020,30-11-19,Newcastle,Man City
+137,2020,30-11-19,Norwich,Arsenal
+138,2020,30-11-19,Southampton,Watford
+139,2020,30-11-19,Tottenham,Bournemouth
+140,2020,30-11-19,Wolves,Sheffield United
+141,2020,03-12-19,Arsenal,Brighton
+142,2020,03-12-19,Burnley,Man City
+143,2020,03-12-19,Leicester,Watford
+144,2020,03-12-19,Man United,Tottenham
+145,2020,03-12-19,Sheffield United,Newcastle
+146,2020,03-12-19,Wolves,West Ham
+147,2020,04-12-19,Chelsea,Aston Villa
+148,2020,04-12-19,Crystal Palace,Bournemouth
+149,2020,04-12-19,Liverpool,Everton
+150,2020,04-12-19,Southampton,Norwich
+151,2020,07-12-19,Aston Villa,Leicester
+152,2020,07-12-19,Bournemouth,Liverpool
+153,2020,07-12-19,Brighton,Wolves
+154,2020,07-12-19,Everton,Chelsea
+155,2020,07-12-19,Man City,Man United
+156,2020,07-12-19,Newcastle,Southampton
+157,2020,07-12-19,Norwich,Sheffield United
+158,2020,07-12-19,Tottenham,Burnley
+159,2020,07-12-19,Watford,Crystal Palace
+160,2020,07-12-19,West Ham,Arsenal
+161,2020,14-12-19,Arsenal,Man City
+162,2020,14-12-19,Burnley,Newcastle
+163,2020,14-12-19,Chelsea,Bournemouth
+164,2020,14-12-19,Crystal Palace,Brighton
+165,2020,14-12-19,Leicester,Norwich
+166,2020,14-12-19,Liverpool,Watford
+167,2020,14-12-19,Man United,Everton
+168,2020,14-12-19,Sheffield United,Aston Villa
+169,2020,14-12-19,Southampton,West Ham
+170,2020,14-12-19,Wolves,Tottenham
+171,2020,21-12-19,Aston Villa,Southampton
+172,2020,21-12-19,Bournemouth,Burnley
+173,2020,21-12-19,Brighton,Sheffield United
+174,2020,21-12-19,Everton,Arsenal
+175,2020,21-12-19,Man City,Leicester
+176,2020,21-12-19,Newcastle,Crystal Palace
+177,2020,21-12-19,Norwich,Wolves
+178,2020,21-12-19,Tottenham,Chelsea
+179,2020,21-12-19,Watford,Man United
+180,2020,21-12-19,West Ham,Liverpool
+181,2020,26-12-19,Aston Villa,Norwich
+182,2020,26-12-19,Bournemouth,Arsenal
+183,2020,26-12-19,Chelsea,Southampton
+184,2020,26-12-19,Crystal Palace,West Ham
+185,2020,26-12-19,Everton,Burnley
+186,2020,26-12-19,Leicester,Liverpool
+187,2020,26-12-19,Man United,Newcastle
+188,2020,26-12-19,Sheffield United,Watford
+189,2020,26-12-19,Tottenham,Brighton
+190,2020,26-12-19,Wolves,Man City
+191,2020,28-12-19,Arsenal,Chelsea
+192,2020,28-12-19,Brighton,Bournemouth
+193,2020,28-12-19,Burnley,Man United
+194,2020,28-12-19,Liverpool,Wolves
+195,2020,28-12-19,Man City,Sheffield United
+196,2020,28-12-19,Newcastle,Everton
+197,2020,28-12-19,Norwich,Tottenham
+198,2020,28-12-19,Southampton,Crystal Palace
+199,2020,28-12-19,Watford,Aston Villa
+200,2020,28-12-19,West Ham,Leicester
+201,2020,01-01-20,Arsenal,Man United
+202,2020,01-01-20,Brighton,Chelsea
+203,2020,01-01-20,Burnley,Aston Villa
+204,2020,01-01-20,Liverpool,Sheffield United
+205,2020,01-01-20,Man City,Everton
+206,2020,01-01-20,Newcastle,Leicester
+207,2020,01-01-20,Norwich,Crystal Palace
+208,2020,01-01-20,Southampton,Tottenham
+209,2020,01-01-20,Watford,Wolves
+210,2020,01-01-20,West Ham,Bournemouth
+211,2020,11-01-20,Aston Villa,Man City
+212,2020,11-01-20,Bournemouth,Watford
+213,2020,11-01-20,Chelsea,Burnley
+214,2020,11-01-20,Crystal Palace,Arsenal
+215,2020,11-01-20,Everton,Brighton
+216,2020,11-01-20,Leicester,Southampton
+217,2020,11-01-20,Man United,Norwich
+218,2020,11-01-20,Sheffield United,West Ham
+219,2020,11-01-20,Tottenham,Liverpool
+220,2020,11-01-20,Wolves,Newcastle
+221,2020,18-01-20,Arsenal,Sheffield United
+222,2020,18-01-20,Brighton,Aston Villa
+223,2020,18-01-20,Burnley,Leicester
+224,2020,18-01-20,Liverpool,Man United
+225,2020,18-01-20,Man City,Crystal Palace
+226,2020,18-01-20,Newcastle,Chelsea
+227,2020,18-01-20,Norwich,Bournemouth
+228,2020,18-01-20,Southampton,Wolves
+229,2020,18-01-20,Watford,Tottenham
+230,2020,18-01-20,West Ham,Everton
+231,2020,21-01-20,Aston Villa,Watford
+232,2020,21-01-20,Bournemouth,Brighton
+233,2020,21-01-20,Everton,Newcastle
+234,2020,21-01-20,Leicester,West Ham
+235,2020,21-01-20,Man United,Burnley
+236,2020,21-01-20,Sheffield United,Man City
+237,2020,21-01-20,Wolves,Liverpool
+238,2020,22-01-20,Chelsea,Arsenal
+239,2020,22-01-20,Crystal Palace,Southampton
+240,2020,22-01-20,Tottenham,Norwich
+241,2020,01-02-20,Bournemouth,Aston Villa
+242,2020,01-02-20,Burnley,Arsenal
+243,2020,01-02-20,Crystal Palace,Sheffield United
+244,2020,01-02-20,Leicester,Chelsea
+245,2020,01-02-20,Liverpool,Southampton
+246,2020,01-02-20,Man United,Wolves
+247,2020,01-02-20,Newcastle,Norwich
+248,2020,01-02-20,Tottenham,Man City
+249,2020,01-02-20,Watford,Everton
+250,2020,01-02-20,West Ham,Brighton
+251,2020,08-02-20,Arsenal,Newcastle
+252,2020,08-02-20,Aston Villa,Tottenham
+253,2020,08-02-20,Brighton,Watford
+254,2020,08-02-20,Chelsea,Man United
+255,2020,08-02-20,Everton,Crystal Palace
+256,2020,08-02-20,Man City,West Ham
+257,2020,08-02-20,Norwich,Liverpool
+258,2020,08-02-20,Sheffield United,Bournemouth
+259,2020,08-02-20,Southampton,Burnley
+260,2020,08-02-20,Wolves,Leicester
+261,2020,22-02-20,Arsenal,Everton
+262,2020,22-02-20,Burnley,Bournemouth
+263,2020,22-02-20,Chelsea,Tottenham
+264,2020,22-02-20,Crystal Palace,Newcastle
+265,2020,22-02-20,Leicester,Man City
+266,2020,22-02-20,Liverpool,West Ham
+267,2020,22-02-20,Man United,Watford
+268,2020,22-02-20,Sheffield United,Brighton
+269,2020,22-02-20,Southampton,Aston Villa
+270,2020,22-02-20,Wolves,Norwich
+271,2020,29-02-20,Aston Villa,Sheffield United
+272,2020,29-02-20,Bournemouth,Chelsea
+273,2020,29-02-20,Brighton,Crystal Palace
+274,2020,29-02-20,Everton,Man United
+275,2020,29-02-20,Man City,Arsenal
+276,2020,29-02-20,Newcastle,Burnley
+277,2020,29-02-20,Norwich,Leicester
+278,2020,29-02-20,Tottenham,Wolves
+279,2020,29-02-20,Watford,Liverpool
+280,2020,29-02-20,West Ham,Southampton
+281,2020,07-03-20,Arsenal,West Ham
+282,2020,07-03-20,Burnley,Tottenham
+283,2020,07-03-20,Chelsea,Everton
+284,2020,07-03-20,Crystal Palace,Watford
+285,2020,07-03-20,Leicester,Aston Villa
+286,2020,07-03-20,Liverpool,Bournemouth
+287,2020,07-03-20,Man United,Man City
+288,2020,07-03-20,Sheffield United,Norwich
+289,2020,07-03-20,Southampton,Newcastle
+290,2020,07-03-20,Wolves,Brighton
+291,2020,14-03-20,Aston Villa,Chelsea
+292,2020,14-03-20,Bournemouth,Crystal Palace
+293,2020,14-03-20,Brighton,Arsenal
+294,2020,14-03-20,Everton,Liverpool
+295,2020,14-03-20,Man City,Burnley
+296,2020,14-03-20,Newcastle,Sheffield United
+297,2020,14-03-20,Norwich,Southampton
+298,2020,14-03-20,Tottenham,Man United
+299,2020,14-03-20,Watford,Leicester
+300,2020,14-03-20,West Ham,Wolves
+301,2020,21-03-20,Burnley,Watford
+302,2020,21-03-20,Chelsea,Man City
+303,2020,21-03-20,Leicester,Brighton
+304,2020,21-03-20,Liverpool,Crystal Palace
+305,2020,21-03-20,Man United,Sheffield United
+306,2020,21-03-20,Newcastle,Aston Villa
+307,2020,21-03-20,Norwich,Everton
+308,2020,21-03-20,Southampton,Arsenal
+309,2020,21-03-20,Tottenham,West Ham
+310,2020,21-03-20,Wolves,Bournemouth
+311,2020,04-04-20,Arsenal,Norwich
+312,2020,04-04-20,Aston Villa,Wolves
+313,2020,04-04-20,Bournemouth,Newcastle
+314,2020,04-04-20,Brighton,Man United
+315,2020,04-04-20,Crystal Palace,Burnley
+316,2020,04-04-20,Everton,Leicester
+317,2020,04-04-20,Man City,Liverpool
+318,2020,04-04-20,Sheffield United,Tottenham
+319,2020,04-04-20,Watford,Southampton
+320,2020,04-04-20,West Ham,Chelsea
+321,2020,11-04-20,Burnley,Sheffield United
+322,2020,11-04-20,Chelsea,Watford
+323,2020,11-04-20,Leicester,Crystal Palace
+324,2020,11-04-20,Liverpool,Aston Villa
+325,2020,11-04-20,Man United,Bournemouth
+326,2020,11-04-20,Newcastle,West Ham
+327,2020,11-04-20,Norwich,Brighton
+328,2020,11-04-20,Southampton,Man City
+329,2020,11-04-20,Tottenham,Everton
+330,2020,11-04-20,Wolves,Arsenal
+331,2020,18-04-20,Arsenal,Leicester
+332,2020,18-04-20,Aston Villa,Man United
+333,2020,18-04-20,Bournemouth,Tottenham
+334,2020,18-04-20,Brighton,Liverpool
+335,2020,18-04-20,Crystal Palace,Chelsea
+336,2020,18-04-20,Everton,Southampton
+337,2020,18-04-20,Man City,Newcastle
+338,2020,18-04-20,Sheffield United,Wolves
+339,2020,18-04-20,Watford,Norwich
+340,2020,18-04-20,West Ham,Burnley
+341,2020,25-04-20,Aston Villa,Crystal Palace
+342,2020,25-04-20,Bournemouth,Leicester
+343,2020,25-04-20,Brighton,Man City
+344,2020,25-04-20,Liverpool,Burnley
+345,2020,25-04-20,Man United,Southampton
+346,2020,25-04-20,Norwich,West Ham
+347,2020,25-04-20,Sheffield United,Chelsea
+348,2020,25-04-20,Tottenham,Arsenal
+349,2020,25-04-20,Watford,Newcastle
+350,2020,25-04-20,Wolves,Everton
+351,2020,02-05-20,Arsenal,Liverpool
+352,2020,02-05-20,Burnley,Wolves
+353,2020,02-05-20,Chelsea,Norwich
+354,2020,02-05-20,Crystal Palace,Man United
+355,2020,02-05-20,Everton,Aston Villa
+356,2020,02-05-20,Leicester,Sheffield United
+357,2020,02-05-20,Man City,Bournemouth
+358,2020,02-05-20,Newcastle,Tottenham
+359,2020,02-05-20,Southampton,Brighton
+360,2020,02-05-20,West Ham,Watford
+361,2020,09-05-20,Aston Villa,Arsenal
+362,2020,09-05-20,Bournemouth,Southampton
+363,2020,09-05-20,Brighton,Newcastle
+364,2020,09-05-20,Liverpool,Chelsea
+365,2020,09-05-20,Man United,West Ham
+366,2020,09-05-20,Norwich,Burnley
+367,2020,09-05-20,Sheffield United,Everton
+368,2020,09-05-20,Tottenham,Leicester
+369,2020,09-05-20,Watford,Man City
+370,2020,09-05-20,Wolves,Crystal Palace
+371,2020,17-05-20,Arsenal,Watford
+372,2020,17-05-20,Burnley,Brighton
+373,2020,17-05-20,Chelsea,Wolves
+374,2020,17-05-20,Crystal Palace,Tottenham
+375,2020,17-05-20,Everton,Bournemouth
+376,2020,17-05-20,Leicester,Man United
+377,2020,17-05-20,Man City,Norwich
+378,2020,17-05-20,Newcastle,Liverpool
+379,2020,17-05-20,Southampton,Sheffield United
+380,2020,17-05-20,West Ham,Aston Villa
